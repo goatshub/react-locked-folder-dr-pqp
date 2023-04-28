@@ -8,7 +8,7 @@ Use npm run gstart to watch for change in folder apps-script and push back to Ap
 
 ```
 git init
-git remote add origin https://github.com/goatshub/react-locked-folder.git
+git remote add origin https://github.com/goatshub/react-locked-folder-dr-pqp.git
 git fetch --all
 git pull origin main
 
